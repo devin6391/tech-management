@@ -1,0 +1,38 @@
+{
+  "name": "tech-organiser",
+  "version": "0.0.1",
+  "description": "A minimal application for organising functionalities, technologies, modules and component in a product",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "devtron": "^1.4.0",
+    "electron-debug": "^1.1.0"
+  },
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-packager": "^8.4.0",
+    "electron-builder": "^10.8.0",
+    "gulp": "^3.9.1",
+    "babel": "^6.5.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-core": "^6.0.0",
+    "webpack": "^1.14.0",
+    "gulp-sass": "^3.0.0",
+    "node-sass": "^4.0.0",
+    "gulp-watch": "^4.3.0",
+    "gulp-batch": "^1.0.0"
+  }
+}
