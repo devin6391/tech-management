@@ -55,7 +55,6 @@
     "electron-installer-debian": "*",
     "electron-installer-windows": "*",
     "electron-packager": "^8.4.0",
-    "event-stream": "^3.3.0",
     "gulp": "^3.9.1",
     "gulp-batch": "^1.0.0",
     "gulp-clean": "^0.3.2",
